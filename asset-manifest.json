@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/meal-generator/static/css/main.231faae5.css",
+    "main.js": "/meal-generator/static/js/main.813ac563.js",
+    "index.html": "/meal-generator/index.html",
+    "main.231faae5.css.map": "/meal-generator/static/css/main.231faae5.css.map",
+    "main.813ac563.js.map": "/meal-generator/static/js/main.813ac563.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.231faae5.css",
+    "static/js/main.813ac563.js"
+  ]
+}
